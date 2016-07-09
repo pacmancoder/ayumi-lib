@@ -9,7 +9,7 @@ Original repository situated at
 - Vladislav Nikonov (Bare library fork)
 
 ### Documentation
-Read generated documentation [here](https://pacmancoder.github.io/ayuli-lib)
+Read generated documentation [here](https://pacmancoder.github.io/ayumi-lib)
 
 This repository conains bare library, which can be used in emulators, players, etc. It's documantatation is built in the source and can be produced with doxygen.
 ```
