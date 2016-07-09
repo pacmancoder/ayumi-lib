@@ -8,6 +8,8 @@ Original repository situated at
 - Peter Sovietov (Original library)
 - Vladislav Nikonov (Bare library fork)
 
+### Documentation
+Read generated documentation [here](https://pacmancoder.github.io/ayuli-lib)
 
 This repository conains bare library, which can be used in emulators, players, etc. It's documantatation is built in the source and can be produced with doxygen.
 ```
